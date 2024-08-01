@@ -1,5 +1,7 @@
 # 电表的改装——自动绘制欧姆表表头
 
+https://fuxuannet.github.io/ohmmeter/
+
 ![欧姆表](https://github.com/user-attachments/assets/45011232-7aae-4894-b60a-62d79aaa8b6a)
 
 > 网页介绍
